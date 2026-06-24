@@ -1,0 +1,924 @@
+{
+  "winner": "Paraguay",
+  "runner_up": "Uruguay",
+  "groups": {
+    "A": [
+      {
+        "team": "Mexico",
+        "position": 1,
+        "Pts": 9,
+        "W": 3,
+        "D": 0,
+        "L": 0,
+        "GF": 5,
+        "GA": 1,
+        "GD": 4
+      },
+      {
+        "team": "South Africa",
+        "position": 2,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 7,
+        "GA": 4,
+        "GD": 3
+      },
+      {
+        "team": "Czech Republic",
+        "position": 3,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 1,
+        "GA": 4,
+        "GD": -3
+      },
+      {
+        "team": "South Korea",
+        "position": 4,
+        "Pts": 0,
+        "W": 0,
+        "D": 0,
+        "L": 3,
+        "GF": 2,
+        "GA": 6,
+        "GD": -4
+      }
+    ],
+    "B": [
+      {
+        "team": "Canada",
+        "position": 1,
+        "Pts": 7,
+        "W": 2,
+        "D": 1,
+        "L": 0,
+        "GF": 5,
+        "GA": 1,
+        "GD": 4
+      },
+      {
+        "team": "Bosnia and Herzegovina",
+        "position": 2,
+        "Pts": 5,
+        "W": 1,
+        "D": 2,
+        "L": 0,
+        "GF": 3,
+        "GA": 2,
+        "GD": 1
+      },
+      {
+        "team": "Qatar",
+        "position": 3,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 3,
+        "GA": 3,
+        "GD": 0
+      },
+      {
+        "team": "Switzerland",
+        "position": 3,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 3,
+        "GF": 0,
+        "GA": 5,
+        "GD": -5
+      }
+    ],
+    "C": [
+      {
+        "team": "Morocco",
+        "position": 1,
+        "Pts": 7,
+        "W": 2,
+        "D": 1,
+        "L": 0,
+        "GF": 7,
+        "GA": 2,
+        "GD": 5
+      },
+      {
+        "team": "Brazil",
+        "position": 2,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 4,
+        "GA": 5,
+        "GD": -1
+      },
+      {
+        "team": "Haiti",
+        "position": 4,
+        "Pts": 0,
+        "W": 0,
+        "D": 0,
+        "L": 2,
+        "GF": 3,
+        "GA": 5,
+        "GD": -4
+      },
+      {
+        "team": "Scotland",
+        "position": 4,
+        "Pts": 2,
+        "W": 0,
+        "D": 2,
+        "L": 1,
+        "GF": 2,
+        "GA": 4,
+        "GD": -2
+      }
+    ],
+    "D": [
+      {
+        "team": "United States",
+        "position": 1,
+        "Pts": 7,
+        "W": 2,
+        "D": 1,
+        "L": 0,
+        "GF": 4,
+        "GA": 2,
+        "GD": 2
+      },
+      {
+        "team": "Turkey",
+        "position": 2,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 3,
+        "GA": 3,
+        "GD": 0
+      },
+      {
+        "team": "Paraguay",
+        "position": 3,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 4,
+        "GA": 4,
+        "GD": 0
+      },
+      {
+        "team": "Australia",
+        "position": 4,
+        "Pts": 2,
+        "W": 0,
+        "D": 2,
+        "L": 1,
+        "GF": 2,
+        "GA": 4,
+        "GD": -2
+      }
+    ],
+    "E": [
+      {
+        "team": "Ecuador",
+        "position": 1,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 6,
+        "GA": 4,
+        "GD": 2
+      },
+      {
+        "team": "Germany",
+        "position": 2,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 5,
+        "GA": 3,
+        "GD": 2
+      },
+      {
+        "team": "Ivory Coast",
+        "position": 3,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 2,
+        "GA": 3,
+        "GD": -1
+      },
+      {
+        "team": "Curaçao",
+        "position": 4,
+        "Pts": 1,
+        "W": 0,
+        "D": 1,
+        "L": 2,
+        "GF": 2,
+        "GA": 5,
+        "GD": -3
+      }
+    ],
+    "F": [
+      {
+        "team": "Netherlands",
+        "position": 1,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 5,
+        "GA": 2,
+        "GD": 3
+      },
+      {
+        "team": "Japan",
+        "position": 2,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 4,
+        "GA": 4,
+        "GD": 0
+      },
+      {
+        "team": "Sweden",
+        "position": 3,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 5,
+        "GA": 5,
+        "GD": 0
+      },
+      {
+        "team": "Tunisia",
+        "position": 4,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 2,
+        "GA": 5,
+        "GD": -3
+      }
+    ],
+    "G": [
+      {
+        "team": "New Zealand",
+        "position": 1,
+        "Pts": 7,
+        "W": 2,
+        "D": 1,
+        "L": 0,
+        "GF": 4,
+        "GA": 2,
+        "GD": 2
+      },
+      {
+        "team": "Iran",
+        "position": 2,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 5,
+        "GA": 2,
+        "GD": 3
+      },
+      {
+        "team": "Egypt",
+        "position": 3,
+        "Pts": 2,
+        "W": 0,
+        "D": 2,
+        "L": 1,
+        "GF": 2,
+        "GA": 4,
+        "GD": -2
+      },
+      {
+        "team": "Belgium",
+        "position": 4,
+        "Pts": 1,
+        "W": 0,
+        "D": 1,
+        "L": 2,
+        "GF": 3,
+        "GA": 6,
+        "GD": -3
+      }
+    ],
+    "H": [
+      {
+        "team": "Spain",
+        "position": 1,
+        "Pts": 7,
+        "W": 2,
+        "D": 1,
+        "L": 0,
+        "GF": 6,
+        "GA": 2,
+        "GD": 4
+      },
+      {
+        "team": "Uruguay",
+        "position": 2,
+        "Pts": 3,
+        "W": 0,
+        "D": 3,
+        "L": 0,
+        "GF": 4,
+        "GA": 4,
+        "GD": 0
+      },
+      {
+        "team": "Saudi Arabia",
+        "position": 3,
+        "Pts": 2,
+        "W": 0,
+        "D": 2,
+        "L": 1,
+        "GF": 3,
+        "GA": 4,
+        "GD": -1
+      },
+      {
+        "team": "Cape Verde",
+        "position": 4,
+        "Pts": 2,
+        "W": 0,
+        "D": 2,
+        "L": 1,
+        "GF": 3,
+        "GA": 6,
+        "GD": -3
+      }
+    ],
+    "I": [
+      {
+        "team": "Iraq",
+        "position": 1,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 8,
+        "GA": 3,
+        "GD": 5
+      },
+      {
+        "team": "Senegal",
+        "position": 2,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 4,
+        "GA": 6,
+        "GD": -2
+      },
+      {
+        "team": "France",
+        "position": 3,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 3,
+        "GA": 5,
+        "GD": -2
+      },
+      {
+        "team": "Norway",
+        "position": 4,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 4,
+        "GA": 5,
+        "GD": -1
+      }
+    ],
+    "J": [
+      {
+        "team": "Austria",
+        "position": 1,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 3,
+        "GA": 5,
+        "GD": -2
+      },
+      {
+        "team": "Argentina",
+        "position": 2,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 6,
+        "GA": 3,
+        "GD": 3
+      },
+      {
+        "team": "Jordan",
+        "position": 3,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 2,
+        "GA": 2,
+        "GD": 0
+      },
+      {
+        "team": "Algeria",
+        "position": 4,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 6,
+        "GA": 7,
+        "GD": -1
+      }
+    ],
+    "K": [
+      {
+        "team": "Colombia",
+        "position": 1,
+        "Pts": 5,
+        "W": 1,
+        "D": 2,
+        "L": 0,
+        "GF": 3,
+        "GA": 1,
+        "GD": 2
+      },
+      {
+        "team": "Portugal",
+        "position": 2,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 3,
+        "GA": 3,
+        "GD": 0
+      },
+      {
+        "team": "Uzbekistan",
+        "position": 3,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 3,
+        "GA": 3,
+        "GD": 0
+      },
+      {
+        "team": "DR Congo",
+        "position": 4,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 3,
+        "GA": 5,
+        "GD": -2
+      }
+    ],
+    "L": [
+      {
+        "team": "England",
+        "position": 1,
+        "Pts": 6,
+        "W": 2,
+        "D": 0,
+        "L": 1,
+        "GF": 3,
+        "GA": 3,
+        "GD": 0
+      },
+      {
+        "team": "Panama",
+        "position": 2,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 5,
+        "GA": 4,
+        "GD": 1
+      },
+      {
+        "team": "Ghana",
+        "position": 3,
+        "Pts": 4,
+        "W": 1,
+        "D": 1,
+        "L": 1,
+        "GF": 3,
+        "GA": 3,
+        "GD": 0
+      },
+      {
+        "team": "Croatia",
+        "position": 4,
+        "Pts": 3,
+        "W": 1,
+        "D": 0,
+        "L": 2,
+        "GF": 4,
+        "GA": 5,
+        "GD": -1
+      }
+    ]
+  },
+  "rounds": {
+    "R32": [
+      {
+        "match_id": "M73",
+        "home_team": "South Africa",
+        "away_team": "Bosnia and Herzegovina",
+        "home_goals": 0,
+        "away_goals": 3,
+        "winner": "Bosnia and Herzegovina",
+        "note": "FT",
+        "home_win_prob": 0.4494,
+        "away_win_prob": 0.2855
+      },
+      {
+        "match_id": "M74",
+        "home_team": "Ecuador",
+        "away_team": "Qatar",
+        "home_goals": 4,
+        "away_goals": 0,
+        "winner": "Ecuador",
+        "note": "FT",
+        "home_win_prob": 0.6768,
+        "away_win_prob": 0.1141
+      },
+      {
+        "match_id": "M75",
+        "home_team": "Netherlands",
+        "away_team": "Brazil",
+        "home_goals": 2,
+        "away_goals": 1,
+        "winner": "Netherlands",
+        "note": "FT",
+        "home_win_prob": 0.4021,
+        "away_win_prob": 0.3288
+      },
+      {
+        "match_id": "M76",
+        "home_team": "Morocco",
+        "away_team": "Japan",
+        "home_goals": 0,
+        "away_goals": 2,
+        "winner": "Japan",
+        "note": "FT",
+        "home_win_prob": 0.4201,
+        "away_win_prob": 0.312
+      },
+      {
+        "match_id": "M77",
+        "home_team": "Iraq",
+        "away_team": "Paraguay",
+        "home_goals": 1,
+        "away_goals": 3,
+        "winner": "Paraguay",
+        "note": "FT",
+        "home_win_prob": 0.3,
+        "away_win_prob": 0.4332
+      },
+      {
+        "match_id": "M78",
+        "home_team": "Germany",
+        "away_team": "Senegal",
+        "home_goals": 2,
+        "away_goals": 1,
+        "winner": "Germany",
+        "note": "FT",
+        "home_win_prob": 0.4476,
+        "away_win_prob": 0.287
+      },
+      {
+        "match_id": "M79",
+        "home_team": "Mexico",
+        "away_team": "Ivory Coast",
+        "home_goals": 3,
+        "away_goals": 0,
+        "winner": "Mexico",
+        "note": "FT",
+        "home_win_prob": 0.5167,
+        "away_win_prob": 0.2285
+      },
+      {
+        "match_id": "M80",
+        "home_team": "England",
+        "away_team": "Uzbekistan",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "England",
+        "note": "FT",
+        "home_win_prob": 0.5909,
+        "away_win_prob": 0.1719
+      },
+      {
+        "match_id": "M81",
+        "home_team": "United States",
+        "away_team": "Jordan",
+        "home_goals": 1,
+        "away_goals": 1,
+        "winner": "United States",
+        "note": "AET/Pen",
+        "home_win_prob": 0.4471,
+        "away_win_prob": 0.2875
+      },
+      {
+        "match_id": "M82",
+        "home_team": "New Zealand",
+        "away_team": "France",
+        "home_goals": 2,
+        "away_goals": 3,
+        "winner": "France",
+        "note": "FT",
+        "home_win_prob": 0.2147,
+        "away_win_prob": 0.5341
+      },
+      {
+        "match_id": "M83",
+        "home_team": "Portugal",
+        "away_team": "Panama",
+        "home_goals": 0,
+        "away_goals": 2,
+        "winner": "Panama",
+        "note": "FT",
+        "home_win_prob": 0.5341,
+        "away_win_prob": 0.2147
+      },
+      {
+        "match_id": "M84",
+        "home_team": "Spain",
+        "away_team": "Argentina",
+        "home_goals": 1,
+        "away_goals": 1,
+        "winner": "Argentina",
+        "note": "AET/Pen",
+        "home_win_prob": 0.4536,
+        "away_win_prob": 0.2817
+      },
+      {
+        "match_id": "M85",
+        "home_team": "Canada",
+        "away_team": "Sweden",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Canada",
+        "note": "FT",
+        "home_win_prob": 0.5044,
+        "away_win_prob": 0.2385
+      },
+      {
+        "match_id": "M86",
+        "home_team": "Austria",
+        "away_team": "Uruguay",
+        "home_goals": 1,
+        "away_goals": 1,
+        "winner": "Uruguay",
+        "note": "AET/Pen",
+        "home_win_prob": 0.3548,
+        "away_win_prob": 0.3753
+      },
+      {
+        "match_id": "M87",
+        "home_team": "Colombia",
+        "away_team": "Ghana",
+        "home_goals": 0,
+        "away_goals": 1,
+        "winner": "Ghana",
+        "note": "FT",
+        "home_win_prob": 0.6924,
+        "away_win_prob": 0.1045
+      },
+      {
+        "match_id": "M88",
+        "home_team": "Turkey",
+        "away_team": "Iran",
+        "home_goals": 1,
+        "away_goals": 2,
+        "winner": "Iran",
+        "note": "FT",
+        "home_win_prob": 0.4471,
+        "away_win_prob": 0.2875
+      }
+    ],
+    "R16": [
+      {
+        "match_id": "M89",
+        "home_team": "Ecuador",
+        "away_team": "Paraguay",
+        "home_goals": 0,
+        "away_goals": 0,
+        "winner": "Paraguay",
+        "note": "AET/Pen",
+        "home_win_prob": 0.4821,
+        "away_win_prob": 0.2571
+      },
+      {
+        "match_id": "M90",
+        "home_team": "Bosnia and Herzegovina",
+        "away_team": "Netherlands",
+        "home_goals": 1,
+        "away_goals": 4,
+        "winner": "Netherlands",
+        "note": "FT",
+        "home_win_prob": 0.1813,
+        "away_win_prob": 0.578
+      },
+      {
+        "match_id": "M91",
+        "home_team": "Japan",
+        "away_team": "Germany",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Japan",
+        "note": "FT",
+        "home_win_prob": 0.4088,
+        "away_win_prob": 0.3225
+      },
+      {
+        "match_id": "M92",
+        "home_team": "Mexico",
+        "away_team": "England",
+        "home_goals": 1,
+        "away_goals": 1,
+        "winner": "England",
+        "note": "AET/Pen",
+        "home_win_prob": 0.3206,
+        "away_win_prob": 0.4108
+      },
+      {
+        "match_id": "M93",
+        "home_team": "Panama",
+        "away_team": "Argentina",
+        "home_goals": 0,
+        "away_goals": 2,
+        "winner": "Argentina",
+        "note": "FT",
+        "home_win_prob": 0.223,
+        "away_win_prob": 0.5237
+      },
+      {
+        "match_id": "M94",
+        "home_team": "United States",
+        "away_team": "France",
+        "home_goals": 1,
+        "away_goals": 2,
+        "winner": "France",
+        "note": "FT",
+        "home_win_prob": 0.2428,
+        "away_win_prob": 0.4992
+      },
+      {
+        "match_id": "M95",
+        "home_team": "Uruguay",
+        "away_team": "Iran",
+        "home_goals": 3,
+        "away_goals": 1,
+        "winner": "Uruguay",
+        "note": "FT",
+        "home_win_prob": 0.4724,
+        "away_win_prob": 0.2654
+      },
+      {
+        "match_id": "M96",
+        "home_team": "Canada",
+        "away_team": "Ghana",
+        "home_goals": 2,
+        "away_goals": 1,
+        "winner": "Canada",
+        "note": "FT",
+        "home_win_prob": 0.589,
+        "away_win_prob": 0.1733
+      }
+    ],
+    "QF": [
+      {
+        "match_id": "M97",
+        "home_team": "Paraguay",
+        "away_team": "Netherlands",
+        "home_goals": 0,
+        "away_goals": 0,
+        "winner": "Paraguay",
+        "note": "AET/Pen",
+        "home_win_prob": 0.3324,
+        "away_win_prob": 0.3983
+      },
+      {
+        "match_id": "M98",
+        "home_team": "Argentina",
+        "away_team": "France",
+        "home_goals": 6,
+        "away_goals": 3,
+        "winner": "Argentina",
+        "note": "FT",
+        "home_win_prob": 0.4437,
+        "away_win_prob": 0.2905
+      },
+      {
+        "match_id": "M99",
+        "home_team": "Japan",
+        "away_team": "England",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Japan",
+        "note": "FT",
+        "home_win_prob": 0.3371,
+        "away_win_prob": 0.3934
+      },
+      {
+        "match_id": "M100",
+        "home_team": "Uruguay",
+        "away_team": "Canada",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Uruguay",
+        "note": "FT",
+        "home_win_prob": 0.4667,
+        "away_win_prob": 0.2703
+      }
+    ],
+    "SF": [
+      {
+        "match_id": "M101",
+        "home_team": "Paraguay",
+        "away_team": "Argentina",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Paraguay",
+        "note": "FT",
+        "home_win_prob": 0.2452,
+        "away_win_prob": 0.4963
+      },
+      {
+        "match_id": "M102",
+        "home_team": "Japan",
+        "away_team": "Uruguay",
+        "home_goals": 0,
+        "away_goals": 2,
+        "winner": "Uruguay",
+        "note": "FT",
+        "home_win_prob": 0.4211,
+        "away_win_prob": 0.3111
+      }
+    ],
+    "3rd": [
+      {
+        "match_id": "M103",
+        "home_team": "Argentina",
+        "away_team": "Japan",
+        "home_goals": 4,
+        "away_goals": 1,
+        "winner": "Argentina",
+        "note": "FT",
+        "home_win_prob": 0.5386,
+        "away_win_prob": 0.2112
+      }
+    ],
+    "Final": [
+      {
+        "match_id": "M104",
+        "home_team": "Paraguay",
+        "away_team": "Uruguay",
+        "home_goals": 2,
+        "away_goals": 1,
+        "winner": "Paraguay",
+        "note": "FT",
+        "home_win_prob": 0.3645,
+        "away_win_prob": 0.3655
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+group,team_a,team_b,score_a,score_b,outcome,p_a_win,p_draw,p_b_win
+A,Mexico,South Africa,1,2,away_win,0.6561,0.2224,0.1215
+A,Mexico,South Korea,0,4,away_win,0.4353,0.2928,0.2719
+A,Mexico,Czech Republic,0,3,away_win,0.5524,0.258,0.1895
+A,South Africa,South Korea,2,4,away_win,0.1716,0.2496,0.5788
+A,South Africa,Czech Republic,2,2,draw,0.251,0.2843,0.4647
+A,South Korea,Czech Republic,4,3,home_win,0.4614,0.2853,0.2533
+B,Canada,Bosnia and Herzegovina,1,0,home_win,0.6295,0.2322,0.1383
+B,Canada,Qatar,0,0,draw,0.6664,0.2184,0.1152
+B,Canada,Switzerland,1,2,away_win,0.3015,0.3045,0.3941
+B,Bosnia and Herzegovina,Qatar,0,4,away_win,0.3882,0.3062,0.3057
+B,Bosnia and Herzegovina,Switzerland,0,1,away_win,0.1127,0.2167,0.6706
+B,Qatar,Switzerland,0,2,away_win,0.0931,0.2029,0.704
+C,Brazil,Morocco,1,4,away_win,0.4301,0.2943,0.2757
+C,Brazil,Haiti,0,1,away_win,0.709,0.2007,0.0903
+C,Brazil,Scotland,3,2,home_win,0.5872,0.2468,0.1659
+C,Morocco,Haiti,4,2,home_win,0.6453,0.2264,0.1283
+C,Morocco,Scotland,3,1,home_win,0.5049,0.2726,0.2226
+C,Haiti,Scotland,0,0,draw,0.2257,0.2739,0.5005
+D,United States,Paraguay,1,0,home_win,0.2681,0.2912,0.4407
+D,United States,Australia,4,3,home_win,0.2982,0.3032,0.3987
+D,United States,Turkey,0,4,away_win,0.2535,0.2853,0.4612
+D,Paraguay,Australia,4,2,home_win,0.3816,0.308,0.3104
+D,Paraguay,Turkey,3,3,draw,0.3256,0.3141,0.3603
+D,Australia,Turkey,1,0,home_win,0.2956,0.3022,0.4022
+E,Germany,Curaçao,4,2,home_win,0.7155,0.1978,0.0867
+E,Germany,Ivory Coast,2,1,home_win,0.5709,0.2522,0.1769
+E,Germany,Ecuador,2,2,draw,0.3173,0.3108,0.3719
+E,Curaçao,Ivory Coast,0,2,away_win,0.2065,0.2656,0.5279
+E,Curaçao,Ecuador,1,2,away_win,0.076,0.1886,0.7354
+E,Ivory Coast,Ecuador,0,0,draw,0.1583,0.243,0.5988
+F,Netherlands,Japan,1,2,away_win,0.4056,0.3012,0.2932
+F,Netherlands,Sweden,0,0,draw,0.6306,0.2318,0.1375
+F,Netherlands,Tunisia,0,1,away_win,0.649,0.225,0.1259
+F,Japan,Sweden,0,0,draw,0.5757,0.2506,0.1737
+F,Japan,Tunisia,1,3,away_win,0.5962,0.2438,0.16
+F,Sweden,Tunisia,0,4,away_win,0.3635,0.3132,0.3233
+G,Belgium,Egypt,2,4,away_win,0.4814,0.2795,0.2391
+G,Belgium,Iran,3,3,draw,0.3982,0.3033,0.2985
+G,Belgium,New Zealand,2,2,draw,0.5202,0.268,0.2118
+G,Egypt,Iran,0,1,away_win,0.2805,0.2962,0.4234
+G,Egypt,New Zealand,2,1,home_win,0.3799,0.3085,0.3116
+G,Iran,New Zealand,2,1,home_win,0.4635,0.2847,0.2518
+H,Spain,Cape Verde,2,0,home_win,0.8399,0.1291,0.0311
+H,Spain,Saudi Arabia,1,0,home_win,0.8245,0.1392,0.0363
+H,Spain,Uruguay,2,2,draw,0.6206,0.2354,0.144
+H,Cape Verde,Saudi Arabia,4,1,home_win,0.315,0.3099,0.3751
+H,Cape Verde,Uruguay,2,3,away_win,0.1081,0.2137,0.6782
+H,Saudi Arabia,Uruguay,2,2,draw,0.1238,0.2238,0.6524
+I,France,Senegal,2,4,away_win,0.5652,0.254,0.1808
+I,France,Iraq,3,1,home_win,0.7489,0.182,0.0691
+I,France,Norway,1,0,home_win,0.5247,0.2666,0.2087
+I,Senegal,Iraq,4,3,home_win,0.5837,0.248,0.1683
+I,Senegal,Norway,2,2,draw,0.3088,0.3074,0.3839
+I,Iraq,Norway,0,3,away_win,0.144,0.2354,0.6206
+J,Argentina,Algeria,4,0,home_win,0.6863,0.2104,0.1033
+J,Argentina,Austria,4,3,home_win,0.668,0.2177,0.1142
+J,Argentina,Jordan,3,3,draw,0.7387,0.187,0.0743
+J,Algeria,Austria,3,1,home_win,0.3218,0.3126,0.3655
+J,Algeria,Jordan,1,2,away_win,0.4217,0.2966,0.2817
+J,Austria,Jordan,1,1,draw,0.4475,0.2893,0.2632
+K,Portugal,DR Congo,1,3,away_win,0.6385,0.229,0.1326
+K,Portugal,Uzbekistan,2,1,home_win,0.5674,0.2533,0.1793
+K,Portugal,Colombia,0,1,away_win,0.3065,0.3065,0.3871
+K,DR Congo,Uzbekistan,0,1,away_win,0.2793,0.2957,0.425
+K,DR Congo,Colombia,2,1,home_win,0.1108,0.2155,0.6738
+K,Uzbekistan,Colombia,0,3,away_win,0.1521,0.2398,0.6081
+L,England,Croatia,2,2,draw,0.4565,0.2867,0.2568
+L,England,Ghana,1,1,draw,0.7895,0.1604,0.0501
+L,England,Panama,2,1,home_win,0.6122,0.2383,0.1494
+L,Croatia,Ghana,3,2,home_win,0.7245,0.1937,0.0818
+L,Croatia,Panama,3,3,draw,0.5079,0.2717,0.2204
+L,Ghana,Panama,0,1,away_win,0.1565,0.242,0.6015

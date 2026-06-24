@@ -1,0 +1,105 @@
+match_id,group,stage,home_team,away_team,home_goals,away_goals,winner,note,home_win_prob,away_win_prob,draw_prob,home_xg,away_xg,round,round_label
+G001,A,Group Stage,Mexico,South Africa,2,1,Mexico,FT,0.5968,0.1677,0.2355,1.72,0.78,Group Stage,Group Stage
+G002,A,Group Stage,Mexico,South Korea,1,0,Mexico,FT,0.4602,0.276,0.2638,1.44,1.06,Group Stage,Group Stage
+G003,A,Group Stage,Mexico,Czech Republic,2,0,Mexico,FT,0.5354,0.2137,0.2509,1.59,0.91,Group Stage,Group Stage
+G004,A,Group Stage,South Africa,South Korea,4,2,South Africa,FT,0.2853,0.4495,0.2651,1.08,1.42,Group Stage,Group Stage
+G005,A,Group Stage,South Africa,Czech Republic,2,0,South Africa,FT,0.354,0.3761,0.27,1.23,1.27,Group Stage,Group Stage
+G006,A,Group Stage,South Korea,Czech Republic,0,1,Czech Republic,FT,0.4879,0.2522,0.2599,1.5,1.0,Group Stage,Group Stage
+G007,B,Group Stage,Canada,Bosnia and Herzegovina,1,1,,FT,0.5901,0.1725,0.2374,1.7,0.8,Group Stage,Group Stage
+G008,B,Group Stage,Canada,Qatar,2,0,Canada,FT,0.6067,0.1607,0.2326,1.74,0.76,Group Stage,Group Stage
+G009,B,Group Stage,Canada,Switzerland,2,0,Canada,FT,0.3851,0.3451,0.2698,1.29,1.21,Group Stage,Group Stage
+G010,B,Group Stage,Bosnia and Herzegovina,Qatar,1,1,,FT,0.43,0.3029,0.2671,1.38,1.12,Group Stage,Group Stage
+G011,B,Group Stage,Bosnia and Herzegovina,Switzerland,1,0,Bosnia and Herzegovina,FT,0.2267,0.5191,0.2543,0.94,1.56,Group Stage,Group Stage
+G012,B,Group Stage,Qatar,Switzerland,2,0,Qatar,FT,0.2133,0.536,0.2508,0.9,1.6,Group Stage,Group Stage
+G013,C,Group Stage,Brazil,Morocco,2,4,Morocco,FT,0.4444,0.2899,0.2657,1.41,1.09,Group Stage,Group Stage
+G014,C,Group Stage,Brazil,Haiti,1,0,Brazil,FT,0.6277,0.1462,0.2262,1.78,0.72,Group Stage,Group Stage
+G015,C,Group Stage,Brazil,Scotland,1,1,,FT,0.5548,0.1987,0.2465,1.63,0.87,Group Stage,Group Stage
+G016,C,Group Stage,Morocco,Haiti,3,0,Morocco,FT,0.5973,0.1674,0.2354,1.72,0.78,Group Stage,Group Stage
+G017,C,Group Stage,Morocco,Scotland,0,0,,FT,0.5237,0.2229,0.2533,1.57,0.93,Group Stage,Group Stage
+G018,C,Group Stage,Haiti,Scotland,3,1,Haiti,FT,0.3427,0.3876,0.2697,1.2,1.3,Group Stage,Group Stage
+G019,D,Group Stage,United States,Paraguay,2,1,United States,FT,0.3811,0.349,0.2699,1.28,1.22,Group Stage,Group Stage
+G020,D,Group Stage,United States,Australia,1,1,,FT,0.3795,0.3506,0.2699,1.28,1.22,Group Stage,Group Stage
+G021,D,Group Stage,United States,Turkey,1,0,United States,FT,0.3571,0.3729,0.27,1.23,1.27,Group Stage,Group Stage
+G022,D,Group Stage,Paraguay,Australia,2,0,Paraguay,FT,0.4117,0.3197,0.2685,1.35,1.15,Group Stage,Group Stage
+G023,D,Group Stage,Paraguay,Turkey,1,2,Turkey,FT,0.3888,0.3415,0.2696,1.3,1.2,Group Stage,Group Stage
+G024,D,Group Stage,Australia,Turkey,1,1,,FT,0.3905,0.34,0.2696,1.3,1.2,Group Stage,Group Stage
+G025,E,Group Stage,Germany,Curaçao,2,0,Germany,FT,0.6468,0.1334,0.2199,1.82,0.68,Group Stage,Group Stage
+G026,E,Group Stage,Germany,Ivory Coast,0,1,Ivory Coast,FT,0.5393,0.2106,0.2501,1.6,0.9,Group Stage,Group Stage
+G027,E,Group Stage,Germany,Ecuador,3,2,Germany,FT,0.4068,0.3243,0.2688,1.34,1.16,Group Stage,Group Stage
+G028,E,Group Stage,Curaçao,Ivory Coast,1,1,,FT,0.3103,0.4219,0.2678,1.13,1.37,Group Stage,Group Stage
+G029,E,Group Stage,Curaçao,Ecuador,1,2,Ecuador,FT,0.1988,0.5547,0.2465,0.87,1.63,Group Stage,Group Stage
+G030,E,Group Stage,Ivory Coast,Ecuador,0,2,Ecuador,FT,0.2887,0.4458,0.2655,1.08,1.42,Group Stage,Group Stage
+G031,F,Group Stage,Netherlands,Japan,3,1,Netherlands,FT,0.4393,0.2945,0.2662,1.4,1.1,Group Stage,Group Stage
+G032,F,Group Stage,Netherlands,Sweden,2,0,Netherlands,FT,0.5923,0.1709,0.2368,1.71,0.79,Group Stage,Group Stage
+G033,F,Group Stage,Netherlands,Tunisia,0,1,Tunisia,FT,0.5964,0.168,0.2356,1.72,0.78,Group Stage,Group Stage
+G034,F,Group Stage,Japan,Sweden,2,1,Japan,FT,0.5657,0.1905,0.2438,1.66,0.84,Group Stage,Group Stage
+G035,F,Group Stage,Japan,Tunisia,1,0,Japan,FT,0.5703,0.187,0.2427,1.66,0.84,Group Stage,Group Stage
+G036,F,Group Stage,Sweden,Tunisia,4,1,Sweden,FT,0.4175,0.3144,0.2681,1.36,1.14,Group Stage,Group Stage
+G037,G,Group Stage,Belgium,Egypt,2,2,,FT,0.4965,0.2451,0.2584,1.52,0.98,Group Stage,Group Stage
+G038,G,Group Stage,Belgium,Iran,0,2,Iran,FT,0.4449,0.2895,0.2656,1.41,1.09,Group Stage,Group Stage
+G039,G,Group Stage,Belgium,New Zealand,1,2,New Zealand,FT,0.5038,0.239,0.2572,1.53,0.97,Group Stage,Group Stage
+G040,G,Group Stage,Egypt,Iran,0,2,Iran,FT,0.3635,0.3665,0.27,1.25,1.25,Group Stage,Group Stage
+G041,G,Group Stage,Egypt,New Zealand,0,0,,FT,0.4206,0.3115,0.2679,1.36,1.14,Group Stage,Group Stage
+G042,G,Group Stage,Iran,New Zealand,1,2,New Zealand,FT,0.4723,0.2655,0.2622,1.47,1.03,Group Stage,Group Stage
+G043,H,Group Stage,Spain,Cape Verde,3,0,Spain,FT,0.777,0.0572,0.1658,2.11,0.39,Group Stage,Group Stage
+G044,H,Group Stage,Spain,Saudi Arabia,1,0,Spain,FT,0.7633,0.0643,0.1724,2.07,0.43,Group Stage,Group Stage
+G045,H,Group Stage,Spain,Uruguay,2,2,,FT,0.5866,0.175,0.2384,1.7,0.8,Group Stage,Group Stage
+G046,H,Group Stage,Cape Verde,Saudi Arabia,2,2,,FT,0.3977,0.3331,0.2693,1.32,1.18,Group Stage,Group Stage
+G047,H,Group Stage,Cape Verde,Uruguay,1,1,,FT,0.2279,0.5176,0.2546,0.94,1.56,Group Stage,Group Stage
+G048,H,Group Stage,Saudi Arabia,Uruguay,1,1,,FT,0.241,0.5014,0.2576,0.97,1.53,Group Stage,Group Stage
+G049,I,Group Stage,France,Senegal,1,1,,FT,0.5379,0.2117,0.2504,1.6,0.9,Group Stage,Group Stage
+G050,I,Group Stage,France,Iraq,1,0,France,FT,0.6833,0.1101,0.2067,1.9,0.6,Group Stage,Group Stage
+G051,I,Group Stage,France,Norway,1,4,Norway,FT,0.5155,0.2295,0.255,1.55,0.94,Group Stage,Group Stage
+G052,I,Group Stage,Senegal,Iraq,2,5,Iraq,FT,0.5611,0.1939,0.245,1.65,0.85,Group Stage,Group Stage
+G053,I,Group Stage,Senegal,Norway,1,0,Senegal,FT,0.3917,0.3388,0.2695,1.31,1.19,Group Stage,Group Stage
+G054,I,Group Stage,Iraq,Norway,3,0,Iraq,FT,0.2563,0.4831,0.2606,1.01,1.49,Group Stage,Group Stage
+G055,J,Group Stage,Argentina,Algeria,5,1,Argentina,FT,0.6166,0.1538,0.2296,1.76,0.74,Group Stage,Group Stage
+G056,J,Group Stage,Argentina,Austria,0,1,Austria,FT,0.6065,0.1608,0.2327,1.74,0.76,Group Stage,Group Stage
+G057,J,Group Stage,Argentina,Jordan,1,1,,FT,0.6624,0.1232,0.2144,1.85,0.65,Group Stage,Group Stage
+G058,J,Group Stage,Algeria,Austria,5,1,Algeria,FT,0.4033,0.3276,0.269,1.33,1.17,Group Stage,Group Stage
+G059,J,Group Stage,Algeria,Jordan,0,1,Jordan,FT,0.4602,0.2759,0.2638,1.44,1.06,Group Stage,Group Stage
+G060,J,Group Stage,Austria,Jordan,1,0,Austria,FT,0.47,0.2675,0.2625,1.46,1.04,Group Stage,Group Stage
+G061,K,Group Stage,Portugal,DR Congo,1,3,DR Congo,FT,0.5989,0.1662,0.2349,1.72,0.78,Group Stage,Group Stage
+G062,K,Group Stage,Portugal,Uzbekistan,2,0,Portugal,FT,0.5473,0.2044,0.2482,1.62,0.88,Group Stage,Group Stage
+G063,K,Group Stage,Portugal,Colombia,0,0,,FT,0.4031,0.3279,0.269,1.33,1.17,Group Stage,Group Stage
+G064,K,Group Stage,DR Congo,Uzbekistan,0,2,Uzbekistan,FT,0.3633,0.3666,0.27,1.25,1.25,Group Stage,Group Stage
+G065,K,Group Stage,DR Congo,Colombia,0,2,Colombia,FT,0.2344,0.5094,0.2561,0.96,1.54,Group Stage,Group Stage
+G066,K,Group Stage,Uzbekistan,Colombia,1,1,,FT,0.2782,0.4576,0.2642,1.06,1.44,Group Stage,Group Stage
+G067,L,Group Stage,England,Croatia,0,2,Croatia,FT,0.4846,0.255,0.2604,1.49,1.01,Group Stage,Group Stage
+G068,L,Group Stage,England,Ghana,1,0,England,FT,0.7233,0.0862,0.1904,1.98,0.52,Group Stage,Group Stage
+G069,L,Group Stage,England,Panama,2,1,England,FT,0.5778,0.1815,0.2407,1.68,0.82,Group Stage,Group Stage
+G070,L,Group Stage,Croatia,Ghana,1,2,Ghana,FT,0.6565,0.127,0.2165,1.84,0.66,Group Stage,Group Stage
+G071,L,Group Stage,Croatia,Panama,1,3,Panama,FT,0.506,0.2372,0.2568,1.54,0.96,Group Stage,Group Stage
+G072,L,Group Stage,Ghana,Panama,1,1,,FT,0.2724,0.4643,0.2633,1.05,1.45,Group Stage,Group Stage
+M73,,Knockout,South Africa,Bosnia and Herzegovina,0,3,Bosnia and Herzegovina,FT,0.4494,0.2855,0.2651,,,R32,Round of 32
+M74,,Knockout,Ecuador,Qatar,4,0,Ecuador,FT,0.6768,0.1141,0.2091,,,R32,Round of 32
+M75,,Knockout,Netherlands,Brazil,2,1,Netherlands,FT,0.4021,0.3288,0.2691,,,R32,Round of 32
+M76,,Knockout,Morocco,Japan,0,2,Japan,FT,0.4201,0.312,0.2679,,,R32,Round of 32
+M77,,Knockout,Iraq,Paraguay,1,3,Paraguay,FT,0.3,0.4332,0.2668,,,R32,Round of 32
+M78,,Knockout,Germany,Senegal,2,1,Germany,FT,0.4476,0.287,0.2653,,,R32,Round of 32
+M79,,Knockout,Mexico,Ivory Coast,3,0,Mexico,FT,0.5167,0.2285,0.2547,,,R32,Round of 32
+M80,,Knockout,England,Uzbekistan,1,0,England,FT,0.5909,0.1719,0.2372,,,R32,Round of 32
+M81,,Knockout,United States,Jordan,1,1,United States,AET/Pen,0.4471,0.2875,0.2654,,,R32,Round of 32
+M82,,Knockout,New Zealand,France,2,3,France,FT,0.2147,0.5341,0.2512,,,R32,Round of 32
+M83,,Knockout,Portugal,Panama,0,2,Panama,FT,0.5341,0.2147,0.2512,,,R32,Round of 32
+M84,,Knockout,Spain,Argentina,1,1,Argentina,AET/Pen,0.4536,0.2817,0.2647,,,R32,Round of 32
+M85,,Knockout,Canada,Sweden,1,0,Canada,FT,0.5044,0.2385,0.257,,,R32,Round of 32
+M86,,Knockout,Austria,Uruguay,1,1,Uruguay,AET/Pen,0.3548,0.3753,0.27,,,R32,Round of 32
+M87,,Knockout,Colombia,Ghana,0,1,Ghana,FT,0.6924,0.1045,0.2031,,,R32,Round of 32
+M88,,Knockout,Turkey,Iran,1,2,Iran,FT,0.4471,0.2875,0.2654,,,R32,Round of 32
+M89,,Knockout,Ecuador,Paraguay,0,0,Paraguay,AET/Pen,0.4821,0.2571,0.2608,,,R16,Round of 16
+M90,,Knockout,Bosnia and Herzegovina,Netherlands,1,4,Netherlands,FT,0.1813,0.578,0.2407,,,R16,Round of 16
+M91,,Knockout,Japan,Germany,1,0,Japan,FT,0.4088,0.3225,0.2687,,,R16,Round of 16
+M92,,Knockout,Mexico,England,1,1,England,AET/Pen,0.3206,0.4108,0.2686,,,R16,Round of 16
+M93,,Knockout,Panama,Argentina,0,2,Argentina,FT,0.223,0.5237,0.2534,,,R16,Round of 16
+M94,,Knockout,United States,France,1,2,France,FT,0.2428,0.4992,0.258,,,R16,Round of 16
+M95,,Knockout,Uruguay,Iran,3,1,Uruguay,FT,0.4724,0.2654,0.2622,,,R16,Round of 16
+M96,,Knockout,Canada,Ghana,2,1,Canada,FT,0.589,0.1733,0.2377,,,R16,Round of 16
+M97,,Knockout,Paraguay,Netherlands,0,0,Paraguay,AET/Pen,0.3324,0.3983,0.2693,,,QF,Quarter-Finals
+M98,,Knockout,Argentina,France,6,3,Argentina,FT,0.4437,0.2905,0.2658,,,QF,Quarter-Finals
+M99,,Knockout,Japan,England,1,0,Japan,FT,0.3371,0.3934,0.2695,,,QF,Quarter-Finals
+M100,,Knockout,Uruguay,Canada,1,0,Uruguay,FT,0.4667,0.2703,0.263,,,QF,Quarter-Finals
+M101,,Knockout,Paraguay,Argentina,1,0,Paraguay,FT,0.2452,0.4963,0.2585,,,SF,Semi-Finals
+M102,,Knockout,Japan,Uruguay,0,2,Uruguay,FT,0.4211,0.3111,0.2678,,,SF,Semi-Finals
+M103,,Knockout,Argentina,Japan,4,1,Argentina,FT,0.5386,0.2112,0.2502,,,3rd,Third Place
+M104,,Knockout,Paraguay,Uruguay,2,1,Paraguay,FT,0.3645,0.3655,0.27,,,Final,Final

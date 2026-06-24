@@ -1,0 +1,32 @@
+round,team_a,team_b,p_a_win,p_draw,p_b_win,simulated_winner,elo_a,elo_b
+Round of 32,South Korea,Czech Republic,0.4614,0.2853,0.2533,Czech Republic,1877.97,1773.84
+Round of 32,Switzerland,Qatar,0.704,0.2029,0.0931,Switzerland,1942.83,1591.44
+Round of 32,Morocco,Haiti,0.6453,0.2264,0.1283,Haiti,1972.94,1692.28
+Round of 32,United States,Turkey,0.2535,0.2853,0.4612,United States,1832.95,1936.92
+Round of 32,Germany,Ecuador,0.3173,0.3108,0.3719,Germany,1987.74,2015.36
+Round of 32,Tunisia,Japan,0.16,0.2438,0.5962,Tunisia,1734.55,1963.04
+Round of 32,Iran,Egypt,0.4234,0.2962,0.2805,Iran,1872.96,1801.42
+Round of 32,Spain,Uruguay,0.6206,0.2354,0.144,Spain,2229.76,1976.01
+Round of 32,Senegal,France,0.1808,0.254,0.5652,France,1926.79,2124.78
+Round of 32,Argentina,Jordan,0.7387,0.187,0.0743,Argentina,2179.65,1780.65
+Round of 32,Colombia,DR Congo,0.6738,0.2155,0.1108,Colombia,2064.03,1750.4
+Round of 32,Croatia,England,0.2568,0.2867,0.4565,Croatia,1994.76,2094.72
+Round of 32,Norway,Paraguay,0.3926,0.3049,0.3025,Norway,1964.61,1919.33
+Round of 32,Ivory Coast,Panama,0.2855,0.2982,0.4163,Panama,1784.24,1849.74
+Round of 32,Canada,South Africa,0.5971,0.2435,0.1594,Canada,1896.29,1666.81
+Round of 32,Cape Verde,Portugal,0.0868,0.1978,0.7154,Cape Verde,1657.0,2023.47
+Round of 16,Czech Republic,Switzerland,0.202,0.2637,0.5343,Czech Republic,1773.84,1942.83
+Round of 16,Haiti,United States,0.2238,0.2731,0.5031,Haiti,1692.28,1832.95
+Round of 16,Germany,Tunisia,0.62,0.2356,0.1444,Germany,1987.74,1734.55
+Round of 16,Iran,Spain,0.0908,0.2011,0.7081,Spain,1872.96,2229.76
+Round of 16,France,Argentina,0.2945,0.3017,0.4038,France,2124.78,2179.65
+Round of 16,Colombia,Croatia,0.4207,0.2969,0.2824,Colombia,2064.03,1994.76
+Round of 16,Norway,Panama,0.4737,0.2817,0.2445,Norway,1964.61,1849.74
+Round of 16,Canada,Cape Verde,0.6067,0.2402,0.153,Canada,1896.29,1657.0
+Quarter-Finals,Czech Republic,Haiti,0.4351,0.2928,0.2721,Haiti,1773.84,1692.28
+Quarter-Finals,Germany,Spain,0.1513,0.2393,0.6094,Spain,1987.74,2229.76
+Quarter-Finals,France,Colombia,0.4107,0.2998,0.2895,France,2124.78,2064.03
+Quarter-Finals,Norway,Canada,0.4196,0.2972,0.2832,Norway,1964.61,1896.29
+Semi-Finals,Haiti,Spain,0.0372,0.1408,0.8219,Spain,1692.28,2229.76
+Semi-Finals,France,Norway,0.5247,0.2666,0.2087,Norway,2124.78,1964.61
+Final,Spain,Norway,0.6312,0.2316,0.1372,Norway,2229.76,1964.61
