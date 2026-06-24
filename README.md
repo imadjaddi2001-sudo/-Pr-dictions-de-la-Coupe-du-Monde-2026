@@ -1,4 +1,4 @@
-# ⚽ FIFA World Cup 2026 Predictor
+# 🏆 FIFA World Cup 2026 Predictor
 
 Application web complète de prédiction de la Coupe du Monde 2026.
 
@@ -8,7 +8,6 @@ Application web complète de prédiction de la Coupe du Monde 2026.
 pip install -r requirements.txt
 python app.py
 ```
-L'app s'ouvre automatiquement sur **http://localhost:5000**
 
 ## 📋 Fonctionnalités
 
@@ -22,13 +21,6 @@ L'app s'ouvre automatiquement sur **http://localhost:5000**
 | 🌍 Classement FIFA | Scraping live de inside.fifa.com |
 | 📁 Export CSV | Export de tous les résultats en CSV |
 
-## 📁 Fichiers CSV générés
-
-- `data/processed/group_stage_results.csv` — Classements phase de groupes
-- `data/processed/group_matches.csv` — Tous les 72 matchs de groupe
-- `data/processed/knockout_results.csv` — Bracket complet (R32 à Finale)
-- `data/processed/tournament_probabilities.csv` — Probs Monte Carlo par équipe
-- `data/processed/fifa_rankings_snapshot.csv` — Classement FIFA snapshot
 
 ## 🔧 Architecture
 
@@ -54,19 +46,7 @@ wc2026_predictor/
 - **ELO ratings** basés sur l'historique de matchs internationaux depuis 1872
 - **Win probability** via formule ELO standard (400 points = 10x plus probable)
 - **Draw probability** modelisée via facteur logistique
-- **Monte Carlo** : N simulations du tournoi complet (configurable)
-- **Scraping FIFA** : live depuis inside.fifa.com, fallback cache 24h
+- **Monte Carlo** : N simulations du tournoi complet 
 
-## 🌐 API REST
 
-| Endpoint | Description |
-|----------|-------------|
-| `GET /api/rankings?refresh=true` | Classement FIFA (scraping live) |
-| `GET /api/probabilities` | Probs toutes équipes |
-| `GET /api/groups` | Composition des 12 groupes |
-| `GET /api/predict_match?team_a=X&team_b=Y` | Prédiction H2H |
-| `GET /api/simulate_group/<G>` | Simulation groupe A-L |
-| `GET /api/simulate_tournament` | Tournoi complet simulé |
-| `GET /api/export_csv?n_sim=500` | Lance Monte Carlo + exporte CSVs |
 
-Basé sur les données de [Anas Riad](https://www.linkedin.com/in/riadanas/) — extended & redesigned.
